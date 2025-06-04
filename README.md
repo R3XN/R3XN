@@ -1,5 +1,5 @@
 👋 Hi, I'm R3XN
-💻 Junior Software Engineer | Front-End Specialist
+💻 Junior Software Develope | Front-End Specialist
 Crafting pixel-perfect, accessible web experiences with React, JavaScript, and CSS. Obsessed with turning design chaos into elegant code.
 🌱 Sharpening My Axe
 Expanding to: C# & PHP (for full-stack versatility)
